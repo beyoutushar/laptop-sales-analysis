@@ -1,4 +1,4 @@
-#💻 Laptop Sales — Python Data Analytics Project
+####💻 Laptop Sales — Python Data Analytics Project
 
 A complete data analytics project analyzing **10,000 laptop sales records** using Python, Pandas, Matplotlib, and Seaborn.
 
